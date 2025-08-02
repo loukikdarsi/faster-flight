@@ -3,7 +3,7 @@ PID-based fin stabilization system for experimental rockets using STM32 and Free
 
 ## Overview
 
-**faster-flight 🚀** is a real-time fin-actuated stabilization system designed for experimental model rockets. It uses a low-power STM32 microcontroller running FreeRTOS to dynamically adjust aerodynamic fin angles for real-time flight control and orientation stabilization.
+**🚀 faster-flight** is a real-time fin-actuated stabilization system designed for experimental model rockets. It uses a low-power STM32 microcontroller running FreeRTOS to dynamically adjust aerodynamic fin angles for real-time flight control and orientation stabilization.
 
 The system combines real-time task management, PID-based control, and sensor fusion to improve in-flight stability and accuracy. It’s built with extensibility in mind and is suitable for small-to-medium scale rocketry platforms.
 
